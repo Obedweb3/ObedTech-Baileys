@@ -1,4 +1,4 @@
-# MALVIN-BAILEYS PRO
+# OBEDTECH-BAILEYS PRO
 <div align="center">
 
   <img src="https://i.ibb.co/Wpnx2hhF/malvin-xd.jpg" width="350px">
