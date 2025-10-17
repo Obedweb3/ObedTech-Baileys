@@ -1,5 +1,5 @@
 {
-  "name": "@xdking/malvin-baileys",
+  "name": "@Obedweb3/ObedTech-Baileys",
   "version": "1.0.3",
   "description": "WhatsApp Beta",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/XdKing2/@sk/Malvin-Baileys",
+  "homepage": "https://github.com/Obedweb3/@sk/ObedTech-Baileys",
   "repository": {
-    "url": "git@github.com:XdKing2/@sk/Malvin-Baileys.git"
+    "url": "git@github.com:Obedweb3/@sk/ObedTech-Baileys.git"
   },
   "license": "MIT",
   "author": "MR OBEDTECH",
